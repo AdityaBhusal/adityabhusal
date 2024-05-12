@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋<br><br>- 🔭 I’m currently working on [GameStore](https://github.com/AdityaBhusal/Gamestore.git)<br>- 🌱 I’m currently learning Blazor Web UI framework.<br>- 🤔 I’m looking for help with Frontend ASP.Net frameworks.<br>- 💬 Undergraduate Computer Science student.<br>- 📫 Check me out on [LinkedIn](https://www.linkedin.com/in/aditya-bhusal-979202202/)<br>  
+### Hi there 👋<br><br>- 🔭 I’m currently working on this new exciting project 👀(check it out) [GameStore](https://github.com/AdityaBhusal/Gamestore.git)<br>- 🌱 I’m currently learning Blazor Web UI framework.<br>- 🤔 I’m looking for help with Frontend ASP.Net frameworks.<br>- 💬 Undergraduate Computer Science student.<br>- 📫 Check me out on [LinkedIn](https://www.linkedin.com/in/aditya-bhusal-979202202/)<br>  
 
 
 ## 🌐 Socials:

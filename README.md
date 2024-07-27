@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋<br><br>- 🔭 I’m currently working on this new exciting project 👀(check it out) [GameStore](https://github.com/AdityaBhusal/Gamestore.git)<br>- 🌱 I’m currently learning Entity FrameWork Core (ORM), REST and Minimal API.<br>- 🤔 I’m looking for help with this Data Integration thing.<br>- 💬 Undergraduate Computer Science student.<br>- 📫 Check me out on [LinkedIn](https://www.linkedin.com/in/aditya-bhusal-979202202/ :target=”_blank”})<br>  
+### Hi there 👋<br><br>- 🔭 I’m currently working on this new exciting project 👀(check it out) [GameStore](https://github.com/AdityaBhusal/Gamestore.git)<br>- 🌱 I’m currently learning Entity FrameWork Core (ORM), REST and Minimal API.<br>- 🤔 I’m looking for help with this Data Integration thing.<br>- 💬 Undergraduate Computer Science student.<br>- 📫 Check me out on [LinkedIn](https://www.linkedin.com/in/aditya-bhusal-979202202/)<br>  
 
 
 ## 🌐 Socials:
